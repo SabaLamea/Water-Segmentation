@@ -2,7 +2,7 @@
 
 WaterSeg is a deep learning-based project designed to segment water bodies from aerial or satellite images. It uses a U-Net architecture to distinguish water from other land features in an automated way. 
 
--- 
+---  
 
 **🧠 Features** 
 
@@ -14,7 +14,7 @@ Visualization of predictions vs. ground truth.
 
 Useful for applications like water resource monitoring and flood detection. 
 
--- 
+--- 
 
 **📁 Project Structure** 
 
